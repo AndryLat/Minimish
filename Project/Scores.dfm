@@ -1,0 +1,41 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderStyle = bsSingle
+  Caption = #1057#1095#1077#1090
+  ClientHeight = 335
+  ClientWidth = 517
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poMainFormCenter
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object StringGrid1: TStringGrid
+    Left = 8
+    Top = 8
+    Width = 501
+    Height = 289
+    ColCount = 4
+    DefaultColWidth = 115
+    FixedCols = 0
+    RowCount = 1
+    FixedRows = 0
+    ScrollBars = ssVertical
+    TabOrder = 0
+  end
+  object BitBtn1: TBitBtn
+    Left = 378
+    Top = 302
+    Width = 131
+    Height = 25
+    Caption = #1054#1095#1080#1089#1090#1080#1090#1100
+    TabOrder = 1
+    OnClick = BitBtn1Click
+  end
+end

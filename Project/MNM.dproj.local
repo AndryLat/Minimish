@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.571,C:\Users\Morris\Documents\Embarcadero\Studio\Projects\Unit4.dfm=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\ScreenSaver.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit3.pas=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\MainMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit1.dfm=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Frame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit5.pas=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\PlayingForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.008,=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit1.pas=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Frame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit12.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit13.dfm=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Kitchen.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,Y:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Scores.dfm=Y:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit12.dfm=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Help.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit12.pas=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Help.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,=Y:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit13.pas=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Kitchen.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit5.dfm=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\PlayingForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,=C:\Users\Morris\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,C:\Users\Morris\Documents\Embarcadero\Studio\Projects\Unit4.pas=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\ScreenSaver.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit13.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.959,=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit11.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,Y:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Scores.pas=Y:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,=Y:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Scores.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.041,C:\Users\Morris\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\MNM.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit11.pas=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Settings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit3.dfm=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Unit11.dfm=F:\Cloud\Projects\RADStudioProjects\MiNiMi v0.2\Settings.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
